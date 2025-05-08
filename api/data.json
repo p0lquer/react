@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Cristian",
+        "age": 19,
+        "description": "Cristian is a 19-year-old student who loves to play video games and watch anime. He is currently studying computer science at university and hopes to become a game developer in the future. In his free time, he enjoys read manga"
+    },
+    {
+        "name": "Robert",
+        "age": 29,
+        "description": "Robert is a 29-year-old software engineer who has a passion for technology and innovation. He has worked on various projects in the tech industry and enjoys learning about new programming languages and frameworks. In his spare time, he likes to play chess and read books on philosophy."
+
+    },
+    {
+        "name": "William",
+        "age": 35,
+        "description": "William is a 35-year-old entrepreneur who has started several successful businesses in the tech industry. He is always looking for new opportunities and enjoys networking with other professionals. In his free time, he likes to travel and explore new cultures."
+    }
+]
