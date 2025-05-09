@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
-import Index from "./pages/Index.jsx";
-import Dinosaur from "./pages/Dinosaur.jsx";
+import Index from "./pages/Index.tsx";
+import Dinosaur from "./pages/Dinosaur.tsx";
 
 export default function App() {
   return (
