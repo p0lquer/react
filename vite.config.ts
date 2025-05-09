@@ -6,5 +6,8 @@ import "npm:react-router-dom";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [deno(), react()],
-  
-})
+ server: {
+    host: 'localhost',
+    port: 5173 
+  }
+});
